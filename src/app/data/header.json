@@ -1,0 +1,11 @@
+{
+  "header": {
+    "nav": [
+      { "title": "About Us", "href": "about" },
+      { "title": "Rating", "href": "rating" },
+      { "title": "Reviews", "href": "reviews" },
+      { "title": "Contacts", "href": "contacts" },
+      { "title": "Privacy Policy", "href": "policy" }
+    ]
+  }
+}

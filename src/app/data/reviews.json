@@ -1,0 +1,105 @@
+{
+  "title": "Reviews",
+  "reviews": [
+    {
+      "photo": "https://randomuser.me/api/portraits/men/1.jpg",
+      "name": "John Doe",
+      "text": "Great sports bar! The atmosphere is fantastic, and they have a wide selection of drinks. Highly recommended."
+    },
+    {
+      "photo": "https://randomuser.me/api/portraits/women/3.jpg",
+      "name": "Alice Smith",
+      "text": "I had a wonderful time at this sports bar. The staff is friendly, and they have big screens for watching games."
+    },
+    {
+      "photo": "https://randomuser.me/api/portraits/men/5.jpg",
+      "name": "Michael Johnson",
+      "text": "Excellent place to watch sports with friends. The food is delicious, and the prices are reasonable."
+    },
+    {
+      "photo": "https://randomuser.me/api/portraits/women/7.jpg",
+      "name": "Emily Brown",
+      "text": "I love this bar! The atmosphere is electric during game nights, and they have a great beer selection."
+    },
+    {
+      "photo": "https://randomuser.me/api/portraits/men/9.jpg",
+      "name": "David Wilson",
+      "text": "A top-notch sports bar in the Netherlands. The staff is attentive, and the sports memorabilia adds to the ambiance."
+    },
+    {
+      "photo": "https://randomuser.me/api/portraits/women/11.jpg",
+      "name": "Sophia Davis",
+      "text": "Had a blast watching football here. The bar staff is quick, and they make awesome cocktails."
+    },
+    {
+      "photo": "https://randomuser.me/api/portraits/men/13.jpg",
+      "name": "James Lee",
+      "text": "The best sports bar in town. Plenty of TVs, and the nachos are to die for!"
+    },
+    {
+      "photo": "https://randomuser.me/api/portraits/women/15.jpg",
+      "name": "Olivia Martinez",
+      "text": "I've been here multiple times, and it never disappoints. Great place to catch a game with friends."
+    },
+    {
+      "photo": "https://randomuser.me/api/portraits/men/17.jpg",
+      "name": "William Adams",
+      "text": "This sports bar has a great vibe. The bartenders are friendly, and the crowd is lively."
+    },
+    {
+      "photo": "https://randomuser.me/api/portraits/women/19.jpg",
+      "name": "Ella Wright",
+      "text": "Highly recommend their buffalo wings. Delicious! The sports memorabilia on the walls is a nice touch."
+    },
+    {
+      "photo": "https://randomuser.me/api/portraits/men/21.jpg",
+      "name": "Liam Harris",
+      "text": "The game day specials are awesome. Great place to watch soccer matches."
+    },
+    {
+      "photo": "https://randomuser.me/api/portraits/women/23.jpg",
+      "name": "Ava Turner",
+      "text": "Friendly staff, good food, and a fun atmosphere. Can't ask for more in a sports bar."
+    },
+    {
+      "photo": "https://randomuser.me/api/portraits/men/25.jpg",
+      "name": "Benjamin White",
+      "text": "This bar has a great selection of craft beers. Perfect for beer enthusiasts."
+    },
+    {
+      "photo": "https://randomuser.me/api/portraits/women/27.jpg",
+      "name": "Charlotte Anderson",
+      "text": "The place to be on game day. They have huge screens and a passionate crowd."
+    },
+    {
+      "photo": "https://randomuser.me/api/portraits/men/29.jpg",
+      "name": "Henry Clark",
+      "text": "Good place for a sports night out. The staff is attentive, and they serve some mean cocktails."
+    },
+    {
+      "photo": "https://randomuser.me/api/portraits/women/31.jpg",
+      "name": "Grace Turner",
+      "text": "I'm a regular here. Love the burgers and the lively atmosphere during games."
+    },
+    {
+      "photo": "https://randomuser.me/api/portraits/men/33.jpg",
+      "name": "Alexander Young",
+      "text": "One of the best sports bars in the Netherlands. Great food and a fun crowd."
+    },
+    {
+      "photo": "https://randomuser.me/api/portraits/women/35.jpg",
+      "name": "Scarlett Scott",
+      "text": "I had a blast watching basketball here. They have a great selection of beers and snacks."
+    },
+    {
+      "photo": "https://randomuser.me/api/portraits/men/37.jpg",
+      "name": "Daniel Turner",
+      "text": "A sports fan's paradise. Big screens everywhere you look."
+    },
+    {
+      "photo": "https://randomuser.me/api/portraits/women/39.jpg",
+      "name": "Victoria Hall",
+      "text": "Great place to hang out with friends and catch a game. The nachos are my favorite."
+    }
+  ]
+}
