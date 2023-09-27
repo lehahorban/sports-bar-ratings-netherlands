@@ -34,8 +34,8 @@ const Header = () => {
               height={70}
             />
           </Link>
-          {pathname === "/policy" ? (
-            <></>
+          {pathname !== "/" ? (
+            <p className="text-white text-3xl font-bold">Sports bar</p>
           ) : (
             <nav>
               <ul className="flex gap-x-5 flex-wrap justify-end">

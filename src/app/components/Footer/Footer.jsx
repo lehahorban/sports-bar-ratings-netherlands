@@ -8,7 +8,7 @@ const Footer = () => {
           <div className="flex items-center justify-center gap-8">
             <Link
               className="text-white/70 hover:text-white font-semibold text-base "
-              href={"policy"}
+              href={"/policy"}
             >
               Terms of Service & Privacy Policy
             </Link>

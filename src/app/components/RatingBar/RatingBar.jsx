@@ -4,6 +4,7 @@ import { useState, useEffect } from "react";
 import Image from "next/image";
 import RatingStar from "../RaitingStar/RaitingStar";
 import data from "../../data/sportsBar.json";
+import Link from "next/link";
 
 const RatingBar = () => {
   const { sportsBars } = data;
@@ -60,30 +61,32 @@ const RatingBar = () => {
 
         <ul className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4 mt-5">
           {sortArray.map(
-            ({ name, location, description, rating, image }, ind) => (
+            ({ name, location, description, rating, image, id }, ind) => (
               <li
-                className="bg-main rounded-md px-3 py-4 flex flex-col gap-2"
                 key={ind}
+                className="bg-main rounded-md px-3 py-4 flex flex-col gap-2"
               >
-                <div className="flex flex-col justify-between flex-1 gap-1">
-                  <p className="text-orange text-xl font-bold text-center">
-                    {name}
-                  </p>
-                  <p className="text-white text-lg">{location}</p>
-                  <p className="text-accent text-base">{description}</p>
-                  <div className="flex items-center gap-4">
-                    <p className="text-white text-2xl">{rating.toFixed(1)}</p>
-                    <RatingStar value={rating} />
+                <Link href={`bar/${id}`}>
+                  <div className="flex flex-col justify-between flex-1 gap-1">
+                    <p className="text-orange text-xl font-bold text-center">
+                      {name}
+                    </p>
+                    <p className="text-white text-lg">{location}</p>
+                    <p className="text-accent text-base">{description}</p>
+                    <div className="flex items-center gap-4">
+                      <p className="text-white text-2xl">{rating.toFixed(1)}</p>
+                      <RatingStar value={rating} />
+                    </div>
                   </div>
-                </div>
-                <div className="w-full h-60 relative">
-                  <Image
-                    src={image}
-                    alt={name}
-                    className="object-cover object-center"
-                    fill={true}
-                  />
-                </div>
+                  <div className="w-full h-60 relative">
+                    <Image
+                      src={image}
+                      alt={name}
+                      className="object-cover object-center"
+                      fill={true}
+                    />
+                  </div>
+                </Link>
               </li>
             )
           )}

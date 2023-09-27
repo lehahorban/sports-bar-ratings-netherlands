@@ -2,6 +2,7 @@
   "title": "Raiting",
   "sportsBars": [
     {
+      "id": 1,
       "name": "SportsBar Amsterdam",
       "location": "Amsterdam",
       "description": "A lively sports bar in the heart of Amsterdam. Enjoy big screens, delicious food, and a wide selection of drinks.",
@@ -9,6 +10,7 @@
       "image": "/images/bars/image1.jpg"
     },
     {
+      "id": 2,
       "name": "Rotterdam Sports Hub",
       "location": "Rotterdam",
       "description": "Your go-to spot in Rotterdam for live sports action. Great atmosphere, friendly staff, and plenty of TVs.",
@@ -16,6 +18,7 @@
       "image": "/images/bars/image2.jpg"
     },
     {
+      "id": 3,
       "name": "Utrecht Sports Tavern",
       "location": "Utrecht",
       "description": "Utrecht's premier sports tavern with a spacious setting, live music, and an extensive beer menu.",
@@ -23,6 +26,7 @@
       "image": "/images/bars/image3.jpg"
     },
     {
+      "id": 4,
       "name": "The Hague Sports Grill",
       "location": "The Hague",
       "description": "Catch the game in style at The Hague's sports grill. Burgers, beer, and a fantastic outdoor patio.",
@@ -30,6 +34,7 @@
       "image": "/images/bars/image4.jpg"
     },
     {
+      "id": 5,
       "name": "Groningen Sports Lounge",
       "location": "Groningen",
       "description": "Groningen's favorite spot for sports enthusiasts. Watch games on giant screens and enjoy tasty snacks.",
@@ -37,6 +42,7 @@
       "image": "/images/bars/image5.jpg"
     },
     {
+      "id": 6,
       "name": "Eindhoven Sports Palace",
       "location": "Eindhoven",
       "description": "Eindhoven's ultimate sports palace. Endless sports channels, pool tables, and a vibrant atmosphere.",
@@ -44,6 +50,7 @@
       "image": "/images/bars/image6.jpg"
     },
     {
+      "id": 7,
       "name": "Maastricht Sports Retreat",
       "location": "Maastricht",
       "description": "A cozy retreat for sports fans in Maastricht. Great beer selection and a relaxing ambiance.",
@@ -51,6 +58,7 @@
       "image": "/images/bars/image7.jpg"
     },
     {
+      "id": 8,
       "name": "Haarlem Sports Zone",
       "location": "Haarlem",
       "description": "Haarlem's hotspot for sports action. Large screens, tasty bites, and a bustling crowd.",
@@ -58,6 +66,7 @@
       "image": "/images/bars/image8.jpg"
     },
     {
+      "id": 9,
       "name": "Amersfoort Sports Haven",
       "location": "Amersfoort",
       "description": "Amersfoort's hidden gem for sports lovers. Friendly staff and an inviting atmosphere.",
@@ -65,6 +74,7 @@
       "image": "/images/bars/image9.jpg"
     },
     {
+      "id": 10,
       "name": "Delft Sports Oasis",
       "location": "Delft",
       "description": "Delft's oasis for sports enthusiasts. Watch games while enjoying exotic cocktails.",
@@ -72,6 +82,7 @@
       "image": "/images/bars/image10.jpg"
     },
     {
+      "id": 11,
       "name": "Leiden Sports Retreat",
       "location": "Leiden",
       "description": "Leiden's cozy sports retreat. Watch matches, sip on craft beer, and relax in style.",
@@ -79,6 +90,7 @@
       "image": "/images/bars/image11.jpg"
     },
     {
+      "id": 12,
       "name": "Nijmegen Sports Arena",
       "location": "Nijmegen",
       "description": "Nijmegen's top-notch sports arena. Cheer for your team with fellow fans.",
